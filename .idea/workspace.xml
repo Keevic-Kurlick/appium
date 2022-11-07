@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5b3fb5d4-a138-4444-999a-49668518e948" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GioSHHXv7j9hKcEdHc6x5WhgsL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/Viktoriya/IdeaProjects/android/src/test/java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Viktoriya/IdeaProjects/android/src/main/resources&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Viktoriya\IdeaProjects\android\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Viktoriya\IdeaProjects\android\src\main\resources" />
+      <recent name="C:\Users\Viktoriya\IdeaProjects\android\src\main\resources\properties" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.fatsecret.helpers" />
+      <recent name="tests" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn install" />
+      <command value="mvn clean compile" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.FatSecretTests.testAuthorizationFatSecret (2)">
+    <configuration name="FatSecretTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="android" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.com.fatsecret.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.com.fatsecret" />
+      <option name="MAIN_CLASS_NAME" value="tests.com.fatsecret.FatSecretTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FatSecretTests.testAuthorizationFatSecret (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="android" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.com.fatsecret.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.com.fatsecret" />
+      <option name="MAIN_CLASS_NAME" value="tests.com.fatsecret.FatSecretTests" />
+      <option name="METHOD_NAME" value="testAuthorizationFatSecret(com.fatsecret.entities.Goal,com.fatsecret.entities.Gender,com.fatsecret.entities.Activity,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FatSecretTests.testAuthorizationFatSecret (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="android" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.com.fatsecret.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.com.fatsecret" />
+      <option name="MAIN_CLASS_NAME" value="tests.com.fatsecret.FatSecretTests" />
+      <option name="METHOD_NAME" value="testAuthorizationFatSecret(com.fatsecret.enums.Goal,com.fatsecret.enums.Gender,com.fatsecret.enums.Activity,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FatSecretTests.testAuthorizationFatSecret" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="android" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.com.fatsecret.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.com.fatsecret" />
+      <option name="MAIN_CLASS_NAME" value="tests.com.fatsecret.FatSecretTests" />
+      <option name="METHOD_NAME" value="testAuthorizationFatSecret(java.lang.String,com.fatsecret.entities.Goal,com.fatsecret.entities.Gender,com.fatsecret.entities.Activity,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FatSecretTests.voidTestDiaryFatSecret (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="android" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.com.fatsecret.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.com.fatsecret" />
+      <option name="MAIN_CLASS_NAME" value="tests.com.fatsecret.FatSecretTests" />
+      <option name="METHOD_NAME" value="voidTestDiaryFatSecret(java.lang.String,java.lang.String,java.lang.String,java.util.List,java.util.List,java.lang.String,java.lang.String,java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FatSecretTests.testAuthorizationFatSecret (2)" />
+        <item itemvalue="JUnit.FatSecretTests.voidTestDiaryFatSecret (1)" />
+        <item itemvalue="JUnit.FatSecretTests" />
+        <item itemvalue="JUnit.FatSecretTests.testAuthorizationFatSecret" />
+        <item itemvalue="JUnit.FatSecretTests.testAuthorizationFatSecret (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b3fb5d4-a138-4444-999a-49668518e948" name="Changes" comment="" />
+      <created>1666880765732</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666880765732</updated>
+    </task>
+    <servers />
+  </component>
+</project>
