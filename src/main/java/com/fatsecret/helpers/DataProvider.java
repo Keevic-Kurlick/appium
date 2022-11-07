@@ -20,7 +20,7 @@ public class DataProvider {
 
         return Stream.of(
                 Arguments.of(Goal.WEIGHT_GAIN, Gender.MALE, Activity.VERY_ACTIVE,
-                        "78", "184", "08/Dec/1991", "tovrwsaiwerq514@gmail.com", "Krakva32@@", "Qehkstrttfo73622", "20")
+                        "78", "184", "08/Dec/1991", "tovqsaiwerq514@gmail.com", "Krakva32@@", "Qehkstrmmo73622", "20")
         );
     }
 

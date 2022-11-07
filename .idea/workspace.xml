@@ -59,7 +59,7 @@
       <command value="mvn clean compile" />
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.FatSecretTests.testAuthorizationFatSecret (2)">
+  <component name="RunManager" selected="JUnit.FatSecretTests">
     <configuration name="FatSecretTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="android" />
       <extension name="coverage">
@@ -141,9 +141,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FatSecretTests" />
         <item itemvalue="JUnit.FatSecretTests.testAuthorizationFatSecret (2)" />
         <item itemvalue="JUnit.FatSecretTests.voidTestDiaryFatSecret (1)" />
-        <item itemvalue="JUnit.FatSecretTests" />
         <item itemvalue="JUnit.FatSecretTests.testAuthorizationFatSecret" />
         <item itemvalue="JUnit.FatSecretTests.testAuthorizationFatSecret (1)" />
       </list>
